@@ -19,7 +19,8 @@ It's important that you do this process before your closing server shuts down as
    - Muting List
    - Domain Blocking List
    - Bookmarks
-3. **If your migration failed or otherwise had issues, you can manually upload a list of your followers on this screen.** You can repeat this process for anything else in the above list.
+3. **If your migration failed or otherwise had issues, you can manually upload a list of those you were following on this screen.** 
+You can repeat this process for anything else in the above list.
 
 Note: it asks if you want to *merge* or *overwrite* your existing information. This shouldn't matter too much with a new account but if you are merging several existing accounts into one, it will make a big difference!
 
